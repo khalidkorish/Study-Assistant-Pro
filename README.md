@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://studyassistantpro.streamlit.app/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 **AI-Powered Dual-Server Study Assistant with Multi-Modal Analysis and RAG**
 
@@ -126,8 +126,8 @@ Simply visit **[https://studyassistantpro.streamlit.app/](https://studyassistant
 #### Option B: Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/study-assistant-pro.git
-cd study-assistant-pro
+git clone https://github.com/khalidkorish/Study-Assistant-Pro.git
+cd Study-Assistant-Pro
 
 # Install dependencies
 pip install streamlit requests
@@ -295,15 +295,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Khalid Korish**
+- GitHub: [@khalidkorish](https://github.com/khalidkorish)
+- LinkedIn: [khalidkorish](https://www.linkedin.com/in/khalidkorish/)
+- Email: khalid.ayman2000.kaa@gmail.com
 
 ---
 
@@ -321,9 +322,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions:
-- Open an [Issue](https://github.com/yourusername/study-assistant-pro/issues)
-- Check existing [Discussions](https://github.com/yourusername/study-assistant-pro/discussions)
-- Email: your.email@example.com
+- Open an [Issue](https://github.com/khalidkorish/Study-Assistant-Pro/issues)
+- Check existing [Discussions](https://github.com/khalidkorish/Study-Assistant-Pro/discussions)
+- Email: khalid.ayman2000.kaa@gmail.com
 
 ---
 
@@ -331,10 +332,10 @@ If you encounter any issues or have questions:
 
 If you find this project useful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/study-assistant-pro&type=Date)](https://star-history.com/#yourusername/study-assistant-pro&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=khalidkorish/Study-Assistant-Pro&type=Date)](https://star-history.com/#khalidkorish/Study-Assistant-Pro&Date)
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Khalid Korish](https://www.linkedin.com/in/khalidkorish/)**
 
-**[🚀 Try the App Now](https://studyassistantpro.streamlit.app/)** | **[📖 Documentation](#)** | **[🐛 Report Bug](https://github.com/yourusername/study-assistant-pro/issues)**
+**[🚀 Try the App Now](https://studyassistantpro.streamlit.app/)** | **[📖 Documentation](#)** | **[🐛 Report Bug](https://github.com/khalidkorish/Study-Assistant-Pro/issues)**
